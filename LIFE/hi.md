@@ -1,3 +1,3 @@
 ds
 
-[markdown](TIL/LIFE/hi.md)
+[markdown](/README.md)
